@@ -1,4 +1,4 @@
-package hw;
+package hw.shapes;
 
 public class Circle implements Shape{
 

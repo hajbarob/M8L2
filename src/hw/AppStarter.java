@@ -1,5 +1,12 @@
 package hw;
 
+import hw.printers.FigureArrayPrinter;
+import hw.printers.FigureConsolePrinter;
+import hw.printers.FigurePrinter;
+import hw.shapes.Circle;
+import hw.shapes.Point;
+import hw.shapes.Shape;
+
 public class AppStarter {
 
     public static void main(String[] args) {

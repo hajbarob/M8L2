@@ -1,4 +1,6 @@
-package hw;
+package hw.printers;
+
+import hw.shapes.Shape;
 
 public interface FigurePrinter {
 
